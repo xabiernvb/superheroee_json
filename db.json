@@ -5,15 +5,7 @@
           "personaje" : "Gumball Watterson",
             "avatar" : "https://static.wikia.nocookie.net/doblaje/images/c/c0/Season_3_Gumball.png/revision/latest/scale-to-width-down/350?cb=20170403133251&path-prefix=es"
             "descripcion": "Hola soy un gato"
-        }, {
-            "superheroes" : "Aquaman",
-            "avatar" : "https://i0.wp.com/hipertextual.com/wp-content/uploads/2018/06/aquaman_movie_dc_comics.jpg?w=1200&ssl=1"
-        }, {
-            "superheroes" : "Supergirl",
-            "avatar" : "https://www.tonica.la/__export/1619808941697/sites/debate/img/2021/04/30/supergirl-temporada-6_1.jpg_463833556.jpg"
-        }, {
-            "superheroes" : "Batman",
-            "avatar" : "https://as02.epimg.net/meristation/imagenes/2020/07/14/noticias/1594714732_417387_1594714761_noticia_normal_recorte1.jpg"
+     
         }
     ]
 }
