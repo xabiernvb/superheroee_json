@@ -1,9 +1,10 @@
   
 {
     "heroes" : [
-        {
-            "superheroes" : "Superman",
-            "avatar" : "https://sm.ign.com/t/ign_es/screenshot/default/publicity-photo-superman-the-movie-20409106-1054-1_8zn8.1280.jpg"
+        {   
+          "personaje" : "Gumball Watterson",
+            "avatar" : "https://static.wikia.nocookie.net/doblaje/images/c/c0/Season_3_Gumball.png/revision/latest/scale-to-width-down/350?cb=20170403133251&path-prefix=es"
+            "descripcion": "Hola soy un gato"
         }, {
             "superheroes" : "Aquaman",
             "avatar" : "https://i0.wp.com/hipertextual.com/wp-content/uploads/2018/06/aquaman_movie_dc_comics.jpg?w=1200&ssl=1"
